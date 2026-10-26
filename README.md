@@ -1,4 +1,4 @@
-```markdown
+
 # SimCLR on CIFAR-10 (Step-by-Step PyTorch Implementation)
 
 This repository contains a simple, educational, and modular step-by-step implementation of **SimCLR (A Simple Framework for Contrastive Learning of Visual Representations)** on the CIFAR-10 dataset using PyTorch.
@@ -49,4 +49,4 @@ Using a batch size of 256 and training on a GPU, the model demonstrates a consis
 ## ⚙️ How to Use
 
 Run the cells sequentially in the provided Jupyter Notebook. The codebase utilizes modern `torchvision` models and standard libraries (`torch`, `matplotlib`, `PIL`).
-```
+
